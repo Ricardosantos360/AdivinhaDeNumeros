@@ -16,7 +16,7 @@ Um mini jogo desenvolvido em **Java Swing**, no qual o objetivo é adivinhar o n
 1. Baixe ou clone este repositório.
 2. Verifique se o Java está instalado.
 3. Acesse a pasta `dist` do projeto.
-4. Execute o arquivo `.jar` disponível nessa pasta.
+4. Abaixe e execute o arquivo `.jar` disponível nessa pasta.
 
 
 **Desenvolvido por Ricardo Araújo Santos** 
