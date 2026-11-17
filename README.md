@@ -21,4 +21,4 @@ Um mini jogo desenvolvido em **Java Swing**, no qual o objetivo é adivinhar o n
 
 **Desenvolvido por Ricardo Araújo Santos** 
 
-Projeto desenvolvido para fins de aprendizado em programação Java.
+Projeto desenvolvido para fins de aprendizado em programação Java Swing.
